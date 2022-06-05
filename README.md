@@ -1,3 +1,3 @@
 # ProtonVPN-VPN-IPs
 
-List of all PureVPN VPN servers IPs.
+List of all ProtonVPN VPN servers IPs.
